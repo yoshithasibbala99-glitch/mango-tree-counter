@@ -4,5 +4,6 @@ numpy
 torch
 torchvision
 lapx>=0.5.2
+opencv-python-headless
 supervision
 ultralytics
